@@ -1,5 +1,5 @@
 {
-  "name": "jquery-waypoints",
+  "name": "waypoints",
   "version": "3.0.1",
   "author": "Caleb Troughton <caleb@imakewebthings.com>",
   "description": "A jQuery plugin that makes it easy to execute a function whenever you scroll to an element.",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imakewebthings/jquery-waypoints.git"
+    "url": "https://github.com/imakewebthings/waypoints.git"
   },
   "keywords": [
     "jquery",
